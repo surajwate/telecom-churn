@@ -45,3 +45,9 @@ pip-selfcheck.json
 # Windows specific files
 Thumbs.db
 desktop.ini
+
+.noteablekeep
+__pycache__
+.tmp/
+*.vectorized_metadata
+*.vectorized_content
